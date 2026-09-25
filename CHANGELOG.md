@@ -4,6 +4,11 @@ All notable changes to this project are documented here, in the [Keep a Changelo
 
 ## [Unreleased]
 
+## [0.1.5] - 2026-09-25
+
+### Added
+- The build now prints a greeting ("Hello, build!") before it starts.
+
 ## [0.1.2] - 2026-09-25
 
 ### Added
@@ -19,3 +24,9 @@ All notable changes to this project are documented here, in the [Keep a Changelo
 - Bananas
 
 [0.1.3]: https://github.com/ensamvarg360/planering-m3-test-public/releases/tag/v0.1.3
+
+
+ ### Added
+  - Refusal demo.
+
+[0.1.5]: https://github.com/ensamvarg360/planering-m3-test-public/releases/tag/v0.1.5
